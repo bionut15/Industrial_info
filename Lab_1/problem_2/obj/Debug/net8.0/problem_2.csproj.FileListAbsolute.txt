@@ -1,0 +1,14 @@
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.AssemblyInfoInputs.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.AssemblyInfo.cs
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.csproj.CoreCompileInputs.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/bin/Debug/net8.0/problem_2
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/bin/Debug/net8.0/problem_2.deps.json
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/bin/Debug/net8.0/problem_2.runtimeconfig.json
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/bin/Debug/net8.0/problem_2.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/bin/Debug/net8.0/problem_2.pdb
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/refint/problem_2.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.pdb
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/problem_2.genruntimeconfig.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_2/obj/Debug/net8.0/ref/problem_2.dll

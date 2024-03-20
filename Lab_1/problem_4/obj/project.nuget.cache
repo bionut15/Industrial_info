@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73bpIH2UunQwL0S1YhYMJ1bmz3B4mvYMM8fDGxRPXwymNuOnqUbcnlx7+4MOLGrGvmAUqna8AJhfUl6sYbUmjQ==",
+  "success": true,
+  "projectFilePath": "/home/ionut/UNI/Year_3/Info_Ind/Lab_1/problem_4/problem_4.csproj",
+  "expectedPackageFiles": [
+    "/home/ionut/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
