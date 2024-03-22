@@ -1,8 +1,8 @@
-﻿byte x, y, c;
+﻿byte x, y, z;
 
 x = 2;
 y = 6;
-c = 3;
+z = 3;
 
-System.Console.WriteLine("Min =" + Math.Min(x,Math.Min(c , y)));
-System.Console.WriteLine("Max =" + Math.Max(x,Math.Max(x , y)));
+System.Console.WriteLine("Min =" + Math.Min(x,Math.Min(z , y)));
+System.Console.WriteLine("Max =" + Math.Max(x,Math.Max(z , y)));

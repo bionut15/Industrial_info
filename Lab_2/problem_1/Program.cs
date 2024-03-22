@@ -1,17 +1,49 @@
-﻿float point;
-byte a ,b ,c;
+﻿
+const byte val1 = 2;
+const byte val2 = 4;
+const float nr = 1.3F;
 
-a = 2;
-b = 5;
-c = 3;
 
-point = 12F;
+int a = 3;
+int b = 4;
+int c = 10;
 
-double a_modified = point + a - point;
-System.Console.WriteLine(a_modified);
-double b_modified = point + b - point;
-System.Console.WriteLine(b_modified);
-double c_modified = point + c - point;
-System.Console.WriteLine(c_modified);
-
+Console.WriteLine("Scaderi: "+((float)a - nr) + "\n" + ((float)b - nr) + "\n" + ((float)c - nr));
+Console.WriteLine("Sume: "+((float)a + nr) + "\n" + ((float)b + nr) + "\n" + ((float)c + nr));
+Console.WriteLine("Bitwise operators with val1 for a");
+Console.WriteLine(a & val1);
+Console.WriteLine(a >> val1);
+Console.WriteLine(a << val1);
+Console.WriteLine(a | val1);
+Console.WriteLine(a ^ val1);
+Console.WriteLine("Bitwise operators with val2 for a");
+Console.WriteLine(a & val2);
+Console.WriteLine(a >> val2);
+Console.WriteLine(a << val2);
+Console.WriteLine(a | val2);
+Console.WriteLine(a ^ val2);
+Console.WriteLine("Bitwise operators with val1 for b");
+Console.WriteLine(b & val1);
+Console.WriteLine(b >> val1);
+Console.WriteLine(b << val1);
+Console.WriteLine(b | val1);
+Console.WriteLine(b ^ val1);
+Console.WriteLine("Bitwise operators with val2 for b");
+Console.WriteLine(b & val2);
+Console.WriteLine(b >> val2);
+Console.WriteLine(b << val2);
+Console.WriteLine(b | val2);
+Console.WriteLine(b ^ val2);
+Console.WriteLine("Bitwise operators with val1 for c");
+Console.WriteLine(c & val1);
+Console.WriteLine(c >> val1);
+Console.WriteLine(c << val1);
+Console.WriteLine(c | val1);
+Console.WriteLine(c ^ val1);
+Console.WriteLine("Bitwise operators with val2 for c");
+Console.WriteLine(c & val2);
+Console.WriteLine(c >> val2);
+Console.WriteLine(c << val2);
+Console.WriteLine(c | val2);
+Console.WriteLine(c ^ val2);
 

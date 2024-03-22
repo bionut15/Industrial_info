@@ -7,6 +7,7 @@ System.Console.WriteLine("Length" + initial_string.Length);
 
 string pattern = @"x";
 string result = Regex.Replace(initial_string , pattern , "a", RegexOptions.None );
+ 
 initial_string = initial_string + result;
 System.Console.WriteLine("Result =" + result);
 
