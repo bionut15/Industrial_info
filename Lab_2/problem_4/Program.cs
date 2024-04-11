@@ -28,4 +28,3 @@ for (int i = 1; i < n; i++)
 Console.WriteLine($"Minimum value in the array: {min}");
 Console.WriteLine($"Maximum value in the array: {max}");
 
-Console.ReadLine();

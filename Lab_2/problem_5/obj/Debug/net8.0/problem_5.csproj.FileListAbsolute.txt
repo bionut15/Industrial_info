@@ -1,0 +1,15 @@
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/bin/Debug/net8.0/problem_5
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/bin/Debug/net8.0/problem_5.deps.json
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/bin/Debug/net8.0/problem_5.runtimeconfig.json
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/bin/Debug/net8.0/problem_5.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/bin/Debug/net8.0/problem_5.pdb
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.AssemblyInfoInputs.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.AssemblyInfo.cs
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.csproj.CoreCompileInputs.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.sourcelink.json
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/refint/problem_5.dll
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.pdb
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/problem_5.genruntimeconfig.cache
+/home/ionut/UNI/Year_3/Info_Ind/Lab_2/problem_5/obj/Debug/net8.0/ref/problem_5.dll
