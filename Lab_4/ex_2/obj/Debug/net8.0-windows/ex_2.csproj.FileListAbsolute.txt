@@ -1,0 +1,17 @@
+C:\UNI\Industrial_info\Lab_4\ex_2\bin\Debug\net8.0-windows\ex_2.exe
+C:\UNI\Industrial_info\Lab_4\ex_2\bin\Debug\net8.0-windows\ex_2.deps.json
+C:\UNI\Industrial_info\Lab_4\ex_2\bin\Debug\net8.0-windows\ex_2.runtimeconfig.json
+C:\UNI\Industrial_info\Lab_4\ex_2\bin\Debug\net8.0-windows\ex_2.dll
+C:\UNI\Industrial_info\Lab_4\ex_2\bin\Debug\net8.0-windows\ex_2.pdb
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.csproj.GenerateResource.cache
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.AssemblyInfoInputs.cache
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.AssemblyInfo.cs
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.csproj.CoreCompileInputs.cache
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.sourcelink.json
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.dll
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\refint\ex_2.dll
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.pdb
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.genruntimeconfig.cache
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ref\ex_2.dll
+C:\UNI\Industrial_info\Lab_4\ex_2\obj\Debug\net8.0-windows\ex_2.Form_lab4_2.resources

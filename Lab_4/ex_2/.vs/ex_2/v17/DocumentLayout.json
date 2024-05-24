@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\Industrial_info\\Lab_4\\ex_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AC661D-F301-4A8B-A65B-25434BC8F167}|ex_2.csproj|c:\\uni\\industrial_info\\lab_4\\ex_2\\form_lab4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64AC661D-F301-4A8B-A65B-25434BC8F167}|ex_2.csproj|solutionrelative:form_lab4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AC661D-F301-4A8B-A65B-25434BC8F167}|ex_2.csproj|c:\\uni\\industrial_info\\lab_4\\ex_2\\form_lab4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AC661D-F301-4A8B-A65B-25434BC8F167}|ex_2.csproj|solutionrelative:form_lab4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_lab4_2.cs [Design]",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_4\\ex_2\\Form_lab4_2.cs",
+              "RelativeDocumentMoniker": "Form_lab4_2.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_4\\ex_2\\Form_lab4_2.cs [Design]",
+              "RelativeToolTip": "Form_lab4_2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:18:51.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_lab4_2.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_4\\ex_2\\Form_lab4_2.cs",
+              "RelativeDocumentMoniker": "Form_lab4_2.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_4\\ex_2\\Form_lab4_2.cs",
+              "RelativeToolTip": "Form_lab4_2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:40:57.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

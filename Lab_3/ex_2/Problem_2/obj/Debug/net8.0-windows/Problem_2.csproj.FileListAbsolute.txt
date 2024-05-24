@@ -1,0 +1,17 @@
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\bin\Debug\net8.0-windows\Problem_2.exe
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\bin\Debug\net8.0-windows\Problem_2.deps.json
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\bin\Debug\net8.0-windows\Problem_2.runtimeconfig.json
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\bin\Debug\net8.0-windows\Problem_2.dll
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\bin\Debug\net8.0-windows\Problem_2.pdb
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.Form1.resources
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.csproj.GenerateResource.cache
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.AssemblyInfoInputs.cache
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.AssemblyInfo.cs
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.csproj.CoreCompileInputs.cache
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.sourcelink.json
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.dll
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\refint\Problem_2.dll
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.pdb
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\Problem_2.genruntimeconfig.cache
+C:\UNI\Industrial_info\Lab_3\Problem_2\Problem_2\obj\Debug\net8.0-windows\ref\Problem_2.dll
