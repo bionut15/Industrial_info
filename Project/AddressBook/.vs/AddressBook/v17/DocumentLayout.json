@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|C:\\UNI\\Industrial_info\\Project\\AddressBook\\addressbook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|c:\\uni\\industrial_info\\project\\addressbook\\addressbook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|C:\\UNI\\Industrial_info\\Project\\AddressBook\\addressbook\\appdata.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\appdata.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|C:\\UNI\\Industrial_info\\Project\\AddressBook\\addressbook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD0AE68-6F3B-4B87-AF80-EAC2CCB529BA}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Form1.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.cs",
+              "RelativeToolTip": "AddressBook\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAawF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:57:37.882Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Form1.Designer.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.Designer.cs",
+              "RelativeToolTip": "AddressBook\\Form1.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAawEIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:06:28.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppData.xsd",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\AppData.xsd",
+              "RelativeDocumentMoniker": "AddressBook\\AppData.xsd",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\AppData.xsd",
+              "RelativeToolTip": "AddressBook\\AppData.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-29T12:57:38.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Form1.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Project\\AddressBook\\AddressBook\\Form1.cs [Design]",
+              "RelativeToolTip": "AddressBook\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:57:38.306Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

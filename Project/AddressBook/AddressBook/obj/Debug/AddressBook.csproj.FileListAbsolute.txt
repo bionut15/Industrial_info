@@ -1,0 +1,41 @@
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\nelu7\Desktop\Proiect Info Industriala\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\barbo\Downloads\Zip\Info\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\UNI\Industrial_info\Project\Project_database\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\UNI\Industrial_info\Project\AddressBook\AddressBook\obj\Debug\AddressBook.pdb

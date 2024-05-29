@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <AddressBook>
+    <ID>-9</ID>
+    <Book_x0020_Title>2</Book_x0020_Title>
+    <Book_x0020_Author>2</Book_x0020_Author>
+    <Publishing_x0020_Date>joi, 2 mai 2024</Publishing_x0020_Date>
+    <Genre>2</Genre>
+  </AddressBook>
+  <AddressBook>
+    <PhoneNumber>sss</PhoneNumber>
+    <FullName>ssss</FullName>
+    <Email>ss</Email>
+    <Address>aaass</Address>
+    <ID>-10</ID>
+    <Book_x0020_Title>www</Book_x0020_Title>
+    <Book_x0020_Author>www</Book_x0020_Author>
+    <Genre>sss</Genre>
+  </AddressBook>
+  <AddressBook>
+    <ID>-11</ID>
+    <Book_x0020_Title>sa</Book_x0020_Title>
+    <Book_x0020_Author>sas</Book_x0020_Author>
+    <Publishing_x0020_Date>miercuri, 29 mai 2002</Publishing_x0020_Date>
+    <Genre>asda</Genre>
+  </AddressBook>
+</AppData>

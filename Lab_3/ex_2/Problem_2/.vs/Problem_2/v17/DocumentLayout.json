@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\",
+  "WorkspaceRootPath": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|c:\\uni\\industrial_info\\lab_3\\problem_2\\problem_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|c:\\uni\\industrial_info\\lab_3\\ex_2\\problem_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|c:\\uni\\industrial_info\\lab_3\\problem_2\\problem_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|c:\\uni\\industrial_info\\lab_3\\problem_2\\problem_2\\person_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\person_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D28869A-99E0-4051-B2FE-00243F472261}|Problem_2.csproj|solutionrelative:person_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Person_1.cs",
-              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Person_1.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Person_1.cs",
               "RelativeDocumentMoniker": "Person_1.cs",
-              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Person_1.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Person_1.cs",
               "RelativeToolTip": "Person_1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T14:09:19.824Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Form1.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Form1.cs [Design]",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T13:53:04.776Z",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Form1.cs",
+              "DocumentMoniker": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Form1.cs",
+              "ToolTip": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AppData" targetNamespace="http://tempuri.org/AppData.xsd" xmlns:mstns="http://tempuri.org/AppData.xsd" xmlns="http://tempuri.org/AppData.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AppData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AppData" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="AppData">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Address" msprop:Generator_RowEvHandlerName="AddressRowChangeEventHandler" msprop:Generator_RowDeletedName="AddressRowDeleted" msprop:Generator_RowDeletingName="AddressRowDeleting" msprop:Generator_RowEvArgName="AddressRowChangeEvent" msprop:Generator_TablePropName="Address" msprop:Generator_RowChangedName="AddressRowChanged" msprop:Generator_UserTableName="Address" msprop:Generator_RowChangingName="AddressRowChanging" msprop:Generator_RowClassName="AddressRow" msprop:Generator_TableClassName="AddressDataTable" msprop:Generator_TableVarName="tableAddress">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Street" msprop:Generator_ColumnPropNameInTable="StreetColumn" msprop:Generator_ColumnPropNameInRow="Street" msprop:Generator_UserColumnName="Street" msprop:Generator_ColumnVarNameInTable="columnStreet" type="xs:string" minOccurs="0" />
+              <xs:element name="Number" msprop:Generator_ColumnPropNameInTable="NumberColumn" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_UserColumnName="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_ColumnPropNameInTable="CityColumn" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnVarNameInTable="columnCity" type="xs:string" minOccurs="0" />
+              <xs:element name="County" msprop:Generator_ColumnPropNameInTable="CountyColumn" msprop:Generator_ColumnPropNameInRow="County" msprop:Generator_UserColumnName="County" msprop:Generator_ColumnVarNameInTable="columnCounty" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PersonInfo" msprop:Generator_RowEvHandlerName="PersonInfoRowChangeEventHandler" msprop:Generator_RowDeletedName="PersonInfoRowDeleted" msprop:Generator_RowDeletingName="PersonInfoRowDeleting" msprop:Generator_RowEvArgName="PersonInfoRowChangeEvent" msprop:Generator_TablePropName="PersonInfo" msprop:Generator_RowChangedName="PersonInfoRowChanged" msprop:Generator_UserTableName="PersonInfo" msprop:Generator_RowChangingName="PersonInfoRowChanging" msprop:Generator_RowClassName="PersonInfoRow" msprop:Generator_TableClassName="PersonInfoDataTable" msprop:Generator_TableVarName="tablePersonInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FirstLastName" msprop:Generator_ColumnPropNameInTable="FirstLastNameColumn" msprop:Generator_ColumnPropNameInRow="FirstLastName" msprop:Generator_UserColumnName="FirstLastName" msprop:Generator_ColumnVarNameInTable="columnFirstLastName" type="xs:string" minOccurs="0" />
+              <xs:element name="CNP" msprop:Generator_ColumnPropNameInTable="CNPColumn" msprop:Generator_ColumnPropNameInRow="CNP" msprop:Generator_UserColumnName="CNP" msprop:Generator_ColumnVarNameInTable="columnCNP" type="xs:string" minOccurs="0" />
+              <xs:element name="BirthDate" msprop:Generator_ColumnPropNameInTable="BirthDateColumn" msprop:Generator_ColumnPropNameInRow="BirthDate" msprop:Generator_UserColumnName="BirthDate" msprop:Generator_ColumnVarNameInTable="columnBirthDate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AddressBook" msprop:Generator_RowEvHandlerName="AddressBookRowChangeEventHandler" msprop:Generator_RowDeletedName="AddressBookRowDeleted" msprop:Generator_RowDeletingName="AddressBookRowDeleting" msprop:Generator_RowEvArgName="AddressBookRowChangeEvent" msprop:Generator_TablePropName="AddressBook" msprop:Generator_RowChangedName="AddressBookRowChanged" msprop:Generator_UserTableName="AddressBook" msprop:Generator_RowChangingName="AddressBookRowChanging" msprop:Generator_RowClassName="AddressBookRow" msprop:Generator_TableClassName="AddressBookDataTable" msprop:Generator_TableVarName="tableAddressBook">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PhoneNumber" msprop:Generator_ColumnPropNameInTable="PhoneNumberColumn" msprop:Generator_ColumnPropNameInRow="PhoneNumber" msprop:Generator_UserColumnName="PhoneNumber" msprop:Generator_ColumnVarNameInTable="columnPhoneNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="FullName" msprop:Generator_ColumnPropNameInTable="FullNameColumn" msprop:Generator_ColumnPropNameInRow="FullName" msprop:Generator_UserColumnName="FullName" msprop:Generator_ColumnVarNameInTable="columnFullName" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_UserColumnName="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" type="xs:int" />
+              <xs:element name="Book_x0020_Title" msprop:Generator_ColumnPropNameInRow="Book_Title" msprop:Generator_ColumnPropNameInTable="Book_TitleColumn" msprop:Generator_ColumnVarNameInTable="columnBook_Title" msprop:Generator_UserColumnName="Book Title" type="xs:string" minOccurs="0" />
+              <xs:element name="Book_x0020_Author" msprop:Generator_ColumnPropNameInRow="Book_Author" msprop:Generator_ColumnPropNameInTable="Book_AuthorColumn" msprop:Generator_ColumnVarNameInTable="columnBook_Author" msprop:Generator_UserColumnName="Book Author" type="xs:string" minOccurs="0" />
+              <xs:element name="Publishing_x0020_Date" msprop:Generator_ColumnPropNameInRow="Publishing_Date" msprop:Generator_ColumnPropNameInTable="Publishing_DateColumn" msprop:Generator_ColumnVarNameInTable="columnPublishing_Date" msprop:Generator_UserColumnName="Publishing Date" type="xs:string" minOccurs="0" />
+              <xs:element name="Genre" msprop:Generator_ColumnPropNameInRow="Genre" msprop:Generator_ColumnPropNameInTable="GenreColumn" msprop:Generator_ColumnVarNameInTable="columnGenre" msprop:Generator_UserColumnName="Genre" type="xs:string" minOccurs="0" />
+              <xs:element name="DataColumn1" msprop:Generator_ColumnPropNameInRow="DataColumn1" msprop:Generator_ColumnPropNameInTable="DataColumn1Column" msprop:Generator_ColumnVarNameInTable="columnDataColumn1" msprop:Generator_UserColumnName="DataColumn1" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="AddressKey1">
+      <xs:selector xpath=".//mstns:Address" />
+      <xs:field xpath="mstns:Street" />
+    </xs:unique>
+    <xs:unique name="PersonInfoKey1">
+      <xs:selector xpath=".//mstns:PersonInfo" />
+      <xs:field xpath="mstns:FirstLastName" />
+    </xs:unique>
+    <xs:unique name="AddressBookKey" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AddressBook" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="AddressBook_PersonInfo" msdata:parent="AddressBook" msdata:child="PersonInfo" msdata:parentkey="FullName" msdata:childkey="FirstLastName" msprop:Generator_UserParentTable="AddressBook" msprop:Generator_UserChildTable="PersonInfo" msprop:Generator_RelationVarName="relationAddressBook_PersonInfo" msprop:Generator_ChildPropName="GetPersonInfoRows" msprop:Generator_ParentPropName="AddressBookRow" msprop:Generator_UserRelationName="AddressBook_PersonInfo" />
+      <msdata:Relationship name="AddressBook_Address" msdata:parent="AddressBook" msdata:child="Address" msdata:parentkey="Address" msdata:childkey="Street" msprop:Generator_UserParentTable="AddressBook" msprop:Generator_UserChildTable="Address" msprop:Generator_RelationVarName="relationAddressBook_Address" msprop:Generator_ChildPropName="GetAddressRows" msprop:Generator_ParentPropName="AddressBookRow" msprop:Generator_UserRelationName="AddressBook_Address" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

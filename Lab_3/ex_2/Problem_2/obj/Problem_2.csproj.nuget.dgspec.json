@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Problem_2.csproj": {}
+    "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Problem_2.csproj": {}
   },
   "projects": {
-    "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Problem_2.csproj": {
+    "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Problem_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Problem_2.csproj",
+        "projectUniqueName": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Problem_2.csproj",
         "projectName": "Problem_2",
-        "projectPath": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\Problem_2.csproj",
+        "projectPath": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\Problem_2.csproj",
         "packagesPath": "C:\\Users\\barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\UNI\\Industrial_info\\Lab_3\\Problem_2\\Problem_2\\obj\\",
+        "outputPath": "C:\\UNI\\Industrial_info\\Lab_3\\ex_2\\Problem_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
